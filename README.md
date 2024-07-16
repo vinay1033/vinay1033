@@ -5,7 +5,7 @@
 <br>
 <br>
 
-- 🌱 I’m currently learning **React Js , Firebase**
+- 🌱 I’m currently learning **React Js , Backend Development**
 
 - 💬 Ask me about **Front end Development**
 
